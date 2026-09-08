@@ -1,5 +1,4 @@
 ## python 
-   [ phthon学习记录 ]( https://github.com/shaoting0730/phthon_learn )  [![GitHub stars](https://img.shields.io/github/stars/shaoting0730/phthon_learn.svg?style=social&label=Stars)](https://github.com/shaoting0730/phthon_learn)  <br/>
    [ XPath 语法 ]( https://www.w3school.com.cn/xpath/xpath_syntax.asp )    <br/>
    [ beautifulsoup4 语法 ]( https://beautifulsoup.readthedocs.io/zh_CN/v4.4.0/#id7 )    <br/>
    [ Python-100-Days ]( https://github.com/jackfrued/Python-100-Days )    <br/>
